@@ -1,7 +1,6 @@
 # MYSQL
 # Nashville_Housing_Data_for_Data_Cleaning
 
-This repository contains data analysis done on Covid-19 data set which is available at the following URL https://ourworldindata.org/covid-deaths
 
 ## Getting Started
 
